@@ -1,5 +1,4 @@
 The complete list of variables of each record is described below:
-
 subjectid
 activitylabel
 tbodyaccmeanx
